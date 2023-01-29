@@ -2,6 +2,14 @@
   color: #f38929;
   --white: #f3f3f3;
 }
+.jbi{
+  text-transform: uppercase;
+}
+.jbiP{
+  margin-top: 15px;
+  font-size: 18px;
+  color: #000000;
+}
 .footerInfo h3{
   font-size: 25px; color: white;
   font-weight: 700;
